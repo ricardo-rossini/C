@@ -6,6 +6,12 @@
 
         getch();
 
+        //Variables
+
+        int x = 100;
+
+        printf("\nO valor de X é %d", x);
+
         // comment!
 
         /*
