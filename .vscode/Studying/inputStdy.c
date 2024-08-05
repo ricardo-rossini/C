@@ -8,5 +8,7 @@ void main(){
     scanf("%d",&a);
 
     printf("O valor digitado foi: %d", a);
+
+    getch();
 }
     
